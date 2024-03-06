@@ -1,0 +1,26 @@
+{
+  "name": "kartikjs",
+  "version": "1.0.0",
+  "description": "CurrencyConvertorJS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KartikJS1/KartikJS-Currency-Convertor.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "KARTIK RAMESH CHAVANJS",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/KartikJS1/KartikJS-Currency-Convertor/issues"
+  },
+  "homepage": "https://github.com/KartikJS1/KartikJS-Currency-Convertor#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
